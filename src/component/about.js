@@ -14,7 +14,7 @@ export default function About() {
    </p>
    </div>
    <div className='about-left'>
-    <img src={image}></img>
+    <img src={image} alt ="about"></img>
     </div>
    
    </div>
